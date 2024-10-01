@@ -1,0 +1,11 @@
+;;;Pourcentage;Montant
+Depense;;;100%;
+;Fixe;;60%;
+;;Transport;15%;
+;;Loyer;35%;
+;;Assurance;10%;
+;Variable;;30%;
+;;Nourriture;15%;
+;;Shopping;10%;
+;;Loisir;5%;
+;Epargne;;10%;
